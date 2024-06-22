@@ -1,2 +1,2 @@
 # myportfolio
-go visit website: https://nivedithahn123.github.io/myportfolio/
+file:///C:/jan/portfolio.html
